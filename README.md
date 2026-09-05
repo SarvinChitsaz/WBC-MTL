@@ -1,4 +1,4 @@
-# WBC-MTL-SEGCLS
+# WBC-MTL
 
 Multi-task White Blood Cell Segmentation and Classification using a ResNet34-based U-Net Architecture
 
@@ -15,7 +15,7 @@ Simultaneous pixel-level segmentation and white blood cell type classification i
   <em>Grad-CAM heatmaps providing interpretability for classification predictions.</em>
 </p>
 
-WBC-MTL-SEGCLS is a multi-task deep learning framework for automated White Blood Cell analysis from microscopy images.
+WBC-MTL is a multi-task deep learning framework for automated White Blood Cell analysis from microscopy images.
 
 The model simultaneously performs:
 
